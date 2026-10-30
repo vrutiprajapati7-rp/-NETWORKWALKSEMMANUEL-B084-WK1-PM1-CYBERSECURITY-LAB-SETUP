@@ -29,7 +29,24 @@ during my Cyber Security Internship with Networkwalks.
 - Lab isolation and system recovery.
 
 ## 📸 Screenshots
-Screenshot (550).png
+1.7-zip installation
+<img width="1920" height="1080" alt="Screenshot (550)" src="https://github.com/user-attachments/assets/10e5385a-50ad-4a1a-92a3-3c4b9fb272c9" />
+
+2.VirtualBox Configuration
+<img width="1920" height="1080" alt="Screenshot (551)" src="https://github.com/user-attachments/assets/9cfb9e30-2d41-4603-b3e6-70d917ed83f4" />
+
+3. NAT Network Configuration
+<img width="1920" height="1080" alt="Screenshot (552)" src="https://github.com/user-attachments/assets/985920f9-cf98-493c-92a7-2b3120697fd2" />
+
+4.Kali Linux Installation
+<img width="1920" height="1080" alt="Screenshot (554)" src="https://github.com/user-attachments/assets/fd735ce7-ddb9-49fb-a782-05fdc73f9f62" />
+
+5.Network Connectivity
+<img width="1920" height="1080" alt="Screenshot (556)" src="https://github.com/user-attachments/assets/5de54923-dabf-4a8b-b87d-063a4b7ee7be" />
+
+6. Virtual Machine Snapshot
+<img width="1920" height="1080" alt="Screenshot (557)" src="https://github.com/user-attachments/assets/a8924fb0-5e43-48ef-a3f5-17870f24e772" />
+
 
 ## 🔒 Security Note
 This environment is intended for authorized cybersecurity
