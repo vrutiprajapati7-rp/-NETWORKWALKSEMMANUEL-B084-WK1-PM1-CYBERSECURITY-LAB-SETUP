@@ -29,6 +29,7 @@ during my Cyber Security Internship with Networkwalks.
 - Lab isolation and system recovery.
 
 ## 📸 Screenshots
+Screenshot (550).png
 
 ## 🔒 Security Note
 This environment is intended for authorized cybersecurity
